@@ -7,3 +7,6 @@
 
 # 주행규정
 <img width="863" height="479" alt="Image" src="https://github.com/user-attachments/assets/cae0ef85-c06d-4146-9e02-8dd8a9efdd0c" />
+
+# 시연영상 링크
+https://youtu.be/DSIZpSP9Nzw
